@@ -1,0 +1,80 @@
+.box1 {
+  border: 2px;
+  border-color: black;
+  min-height: 20px;
+  min-width: 80px;
+  height: 100vh;
+}
+.blue {
+  background-color: rgb(68, 54, 49);
+}
+.red {
+  background-color: rgb(233, 232, 232);
+}
+.green {
+  background-color: rgb(255, 255, 255);
+}
+.grey {
+  background-color: grey;
+}
+.nav-link {
+  color: white;
+}
+.btn-warning {
+  color: white;
+}
+.welcome {
+  color: white;
+  font-size: 0.9 em;
+}
+.welcome-header {
+  color: white;
+  font-size: 0.5 em;
+  padding-left: 15px;
+  padding-top: 3px;
+}
+.compose {
+  padding-left: 30px;
+}
+.email-right-side {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.email-right {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.dwight {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.list-group-item {
+  background-color: rgb(233, 232, 232);
+  border: none;
+}
+.active {
+  color: white;
+}
+.trash-send-dots {
+  font-size: 0.7em;
+  border: none;
+}
+.email-search {
+  font-size: 0.8em;
+  border: none;
+}
+.middle-email-search {
+  font-size: 1em;
+  border: none;
+}
+.middle-email-search h6 {
+  font-size: 0.9em;
+}
+.smile {
+  padding-left: 30px;
+  padding-top: 3px;
+}
+.reply-link {
+  padding-left: 80px;
+  padding-right: 80px;
+}
