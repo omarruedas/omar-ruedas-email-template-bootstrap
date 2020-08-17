@@ -77,4 +77,15 @@
 .reply-link {
   padding-left: 80px;
   padding-right: 80px;
+
+  top: 90%;
+  transform: translateY(-120%);
+}
+html.body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
